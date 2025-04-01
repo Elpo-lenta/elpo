@@ -1,0 +1,19 @@
+.seccion{
+    background-color: #f3f3f3;
+    border: 2px solid #343434;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contenedor-img{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.contenedor-img img{
+    width: 100%;
+}
